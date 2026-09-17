@@ -1,0 +1,9 @@
+pandas
+bertopic
+sentence-transformers
+umap-learn
+gensim
+scikit-learn
+jupyterlab
+ipykernel
+datasets

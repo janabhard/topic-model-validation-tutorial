@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CAP EU data -- check comparativeagendas.net's citation/licensing terms before committing
+# any raw data file; safer to keep it untracked and document the download step in the README instead.
+*.csv
+
+# OS
+.DS_Store
